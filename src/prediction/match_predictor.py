@@ -25,7 +25,13 @@ class MatchPredictor:
                       prev_home_date: str = None, prev_away_date: str = None,
                       home_odds: float = None, draw_odds: float = None,
                       away_odds: float = None,
-                      use_exa: bool = False) -> dict:
+                      use_exa: bool = False,
+                      skip_cached: bool = False) -> dict:
+        if skip_cached and self.tracker.prediction_exists(home, away, match_date):
+            cached = self.tracker.get_prediction(home, away, match_date)
+            if cached and cached.get("actual_result") is None:
+                return cached
+
         feature_vector = self.features.compute_features_for_match(
             home, away, match_date, match_location, prev_home_date, prev_away_date,
         )

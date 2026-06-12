@@ -121,6 +121,23 @@ class PredictionTracker:
             rows = conn.execute("SELECT * FROM predictions ORDER BY date").fetchall()
             return [dict(r) for r in rows]
 
+    def prediction_exists(self, home: str, away: str, date: str) -> bool:
+        with sqlite3.connect(str(self.db_path)) as conn:
+            row = conn.execute(
+                "SELECT 1 FROM predictions WHERE home = ? AND away = ? AND date = ?",
+                (home, away, date),
+            ).fetchone()
+            return row is not None
+
+    def get_prediction(self, home: str, away: str, date: str) -> dict | None:
+        with sqlite3.connect(str(self.db_path)) as conn:
+            conn.row_factory = sqlite3.Row
+            row = conn.execute(
+                "SELECT * FROM predictions WHERE home = ? AND away = ? AND date = ?",
+                (home, away, date),
+            ).fetchone()
+            return dict(row) if row else None
+
     def get_unsettled(self) -> list[dict]:
         with sqlite3.connect(str(self.db_path)) as conn:
             conn.row_factory = sqlite3.Row

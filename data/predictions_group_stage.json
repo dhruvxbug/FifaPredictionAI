@@ -1,0 +1,1377 @@
+{
+  "generated_at": "2026-06-12T14:59:00.621379",
+  "total_matches": 72,
+  "new_predictions": 72,
+  "from_cache": 0,
+  "total_time_seconds": 249.4,
+  "results": [
+    {
+      "home": "Mexico",
+      "away": "South Africa",
+      "date": "2026-06-11",
+      "group": "A",
+      "predicted_outcome": "HOME",
+      "confidence": 0.6221,
+      "probabilities": {
+        "home": 0.622066363700916,
+        "draw": 0.21678940787010778,
+        "away": 0.16114422842897627
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Paraguay",
+      "away": "Czech Republic",
+      "date": "2026-06-11",
+      "group": "A",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.4711,
+      "probabilities": {
+        "home": 0.3173745582888747,
+        "draw": 0.21150297950595418,
+        "away": 0.4711224622051711
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Mexico",
+      "away": "Paraguay",
+      "date": "2026-06-15",
+      "group": "A",
+      "predicted_outcome": "HOME",
+      "confidence": 0.4168,
+      "probabilities": {
+        "home": 0.4167926125039025,
+        "draw": 0.231962499120949,
+        "away": 0.35124488837514856
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Czech Republic",
+      "away": "South Africa",
+      "date": "2026-06-15",
+      "group": "A",
+      "predicted_outcome": "HOME",
+      "confidence": 0.3987,
+      "probabilities": {
+        "home": 0.3986501713606907,
+        "draw": 0.37044614349737126,
+        "away": 0.23090368514193793
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Mexico",
+      "away": "Czech Republic",
+      "date": "2026-06-19",
+      "group": "A",
+      "predicted_outcome": "HOME",
+      "confidence": 0.3921,
+      "probabilities": {
+        "home": 0.39212243190790813,
+        "draw": 0.28376890161346174,
+        "away": 0.3241086664786302
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "South Africa",
+      "away": "Paraguay",
+      "date": "2026-06-19",
+      "group": "A",
+      "predicted_outcome": "DRAW",
+      "confidence": 0.5456,
+      "probabilities": {
+        "home": 0.23479851088850018,
+        "draw": 0.5455847623006477,
+        "away": 0.21961672681085218
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Canada",
+      "away": "Bosnia-Herzegovina",
+      "date": "2026-06-12",
+      "group": "B",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.3681,
+      "probabilities": {
+        "home": 0.3363766869812571,
+        "draw": 0.29547695900465765,
+        "away": 0.3681463540140852
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Qatar",
+      "away": "Croatia",
+      "date": "2026-06-12",
+      "group": "B",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.6541,
+      "probabilities": {
+        "home": 0.16980775687675523,
+        "draw": 0.1760750597646195,
+        "away": 0.6541171833586252
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Canada",
+      "away": "Qatar",
+      "date": "2026-06-16",
+      "group": "B",
+      "predicted_outcome": "HOME",
+      "confidence": 0.6954,
+      "probabilities": {
+        "home": 0.6954444447408981,
+        "draw": 0.18347445631543374,
+        "away": 0.12108109894366818
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Croatia",
+      "away": "Bosnia-Herzegovina",
+      "date": "2026-06-16",
+      "group": "B",
+      "predicted_outcome": "HOME",
+      "confidence": 0.4061,
+      "probabilities": {
+        "home": 0.40612292650303633,
+        "draw": 0.26671369273664636,
+        "away": 0.3271633807603173
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Canada",
+      "away": "Croatia",
+      "date": "2026-06-20",
+      "group": "B",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.5819,
+      "probabilities": {
+        "home": 0.19202325973906212,
+        "draw": 0.22605265694255292,
+        "away": 0.581924083318385
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Bosnia-Herzegovina",
+      "away": "Qatar",
+      "date": "2026-06-20",
+      "group": "B",
+      "predicted_outcome": "HOME",
+      "confidence": 0.4697,
+      "probabilities": {
+        "home": 0.46972963543485025,
+        "draw": 0.2136956808276587,
+        "away": 0.3165746837374911
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "United States",
+      "away": "T\u00fcrkiye",
+      "date": "2026-06-12",
+      "group": "C",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.3704,
+      "probabilities": {
+        "home": 0.3472476176296307,
+        "draw": 0.2823884097591638,
+        "away": 0.37036397261120557
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Algeria",
+      "away": "Sweden",
+      "date": "2026-06-12",
+      "group": "C",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.4761,
+      "probabilities": {
+        "home": 0.32708099793978107,
+        "draw": 0.19681533721321942,
+        "away": 0.4761036648469995
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "United States",
+      "away": "Algeria",
+      "date": "2026-06-16",
+      "group": "C",
+      "predicted_outcome": "HOME",
+      "confidence": 0.5265,
+      "probabilities": {
+        "home": 0.5265288705098655,
+        "draw": 0.2230039519433,
+        "away": 0.2504671775468345
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Sweden",
+      "away": "T\u00fcrkiye",
+      "date": "2026-06-16",
+      "group": "C",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.3919,
+      "probabilities": {
+        "home": 0.33820446224200784,
+        "draw": 0.2699055568803641,
+        "away": 0.39188998087762805
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "United States",
+      "away": "Sweden",
+      "date": "2026-06-20",
+      "group": "C",
+      "predicted_outcome": "HOME",
+      "confidence": 0.5589,
+      "probabilities": {
+        "home": 0.5589319672424726,
+        "draw": 0.18860215032921945,
+        "away": 0.25246588242830803
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "T\u00fcrkiye",
+      "away": "Algeria",
+      "date": "2026-06-20",
+      "group": "C",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.4217,
+      "probabilities": {
+        "home": 0.29891991606551827,
+        "draw": 0.27936200363371333,
+        "away": 0.4217180803007684
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Argentina",
+      "away": "Morocco",
+      "date": "2026-06-13",
+      "group": "D",
+      "predicted_outcome": "HOME",
+      "confidence": 0.6329,
+      "probabilities": {
+        "home": 0.632938013198883,
+        "draw": 0.20183210795307735,
+        "away": 0.16522987884803964
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "C\u00f4te d'Ivoire",
+      "away": "Scotland",
+      "date": "2026-06-13",
+      "group": "D",
+      "predicted_outcome": "HOME",
+      "confidence": 0.3829,
+      "probabilities": {
+        "home": 0.38287481796329054,
+        "draw": 0.2651077096751789,
+        "away": 0.3520174723615306
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Argentina",
+      "away": "C\u00f4te d'Ivoire",
+      "date": "2026-06-17",
+      "group": "D",
+      "predicted_outcome": "HOME",
+      "confidence": 0.4046,
+      "probabilities": {
+        "home": 0.4046191724999155,
+        "draw": 0.3056255125094404,
+        "away": 0.2897553149906441
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Scotland",
+      "away": "Morocco",
+      "date": "2026-06-17",
+      "group": "D",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.4329,
+      "probabilities": {
+        "home": 0.27841926982580983,
+        "draw": 0.28866170737232,
+        "away": 0.43291902280187006
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Argentina",
+      "away": "Scotland",
+      "date": "2026-06-21",
+      "group": "D",
+      "predicted_outcome": "HOME",
+      "confidence": 0.5814,
+      "probabilities": {
+        "home": 0.5814059218984381,
+        "draw": 0.22919385185179392,
+        "away": 0.18940022624976804
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Morocco",
+      "away": "C\u00f4te d'Ivoire",
+      "date": "2026-06-21",
+      "group": "D",
+      "predicted_outcome": "HOME",
+      "confidence": 0.404,
+      "probabilities": {
+        "home": 0.4040002642711591,
+        "draw": 0.26476418638574173,
+        "away": 0.3312355493430992
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Brazil",
+      "away": "Cabo Verde",
+      "date": "2026-06-13",
+      "group": "E",
+      "predicted_outcome": "HOME",
+      "confidence": 0.4547,
+      "probabilities": {
+        "home": 0.4547032925389998,
+        "draw": 0.236054585601423,
+        "away": 0.3092421218595772
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Saudi Arabia",
+      "away": "Belgium",
+      "date": "2026-06-13",
+      "group": "E",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.5659,
+      "probabilities": {
+        "home": 0.26728598583519886,
+        "draw": 0.16680161020068268,
+        "away": 0.5659124039641185
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Brazil",
+      "away": "Saudi Arabia",
+      "date": "2026-06-17",
+      "group": "E",
+      "predicted_outcome": "HOME",
+      "confidence": 0.8174,
+      "probabilities": {
+        "home": 0.8173684593297773,
+        "draw": 0.10998647272477458,
+        "away": 0.072645067945448
+      },
+      "confidence_level": "GOOD_VALUE",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Belgium",
+      "away": "Cabo Verde",
+      "date": "2026-06-17",
+      "group": "E",
+      "predicted_outcome": "HOME",
+      "confidence": 0.4621,
+      "probabilities": {
+        "home": 0.46205678386648136,
+        "draw": 0.22998654489741657,
+        "away": 0.307956671236102
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Brazil",
+      "away": "Belgium",
+      "date": "2026-06-21",
+      "group": "E",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.4448,
+      "probabilities": {
+        "home": 0.36721534562390196,
+        "draw": 0.18793707919313207,
+        "away": 0.44484757518296597
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Cabo Verde",
+      "away": "Saudi Arabia",
+      "date": "2026-06-21",
+      "group": "E",
+      "predicted_outcome": "HOME",
+      "confidence": 0.4226,
+      "probabilities": {
+        "home": 0.42261338476817384,
+        "draw": 0.24892316125626748,
+        "away": 0.32846345397555865
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "England",
+      "away": "Iran",
+      "date": "2026-06-14",
+      "group": "F",
+      "predicted_outcome": "HOME",
+      "confidence": 0.6464,
+      "probabilities": {
+        "home": 0.6463911842444243,
+        "draw": 0.19330055187859832,
+        "away": 0.16030826387697747
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Senegal",
+      "away": "Netherlands",
+      "date": "2026-06-14",
+      "group": "F",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.6131,
+      "probabilities": {
+        "home": 0.18462564241094834,
+        "draw": 0.2022631356576921,
+        "away": 0.6131112219313597
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "England",
+      "away": "Senegal",
+      "date": "2026-06-18",
+      "group": "F",
+      "predicted_outcome": "HOME",
+      "confidence": 0.5531,
+      "probabilities": {
+        "home": 0.5530923573833705,
+        "draw": 0.20559590646801446,
+        "away": 0.24131173614861515
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Netherlands",
+      "away": "Iran",
+      "date": "2026-06-18",
+      "group": "F",
+      "predicted_outcome": "HOME",
+      "confidence": 0.7488,
+      "probabilities": {
+        "home": 0.7487877097271867,
+        "draw": 0.15092993091771073,
+        "away": 0.10028235935510253
+      },
+      "confidence_level": "SPECULATIVE",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "England",
+      "away": "Netherlands",
+      "date": "2026-06-22",
+      "group": "F",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.4798,
+      "probabilities": {
+        "home": 0.31397738391642843,
+        "draw": 0.20619541602728647,
+        "away": 0.47982720005628504
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Iran",
+      "away": "Senegal",
+      "date": "2026-06-22",
+      "group": "F",
+      "predicted_outcome": "DRAW",
+      "confidence": 0.5472,
+      "probabilities": {
+        "home": 0.22268064527032477,
+        "draw": 0.5471576633459665,
+        "away": 0.2301616913837087
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "France",
+      "away": "Australia",
+      "date": "2026-06-14",
+      "group": "G",
+      "predicted_outcome": "HOME",
+      "confidence": 0.7521,
+      "probabilities": {
+        "home": 0.7520777946811465,
+        "draw": 0.1480860621620085,
+        "away": 0.09983614315684496
+      },
+      "confidence_level": "GOOD_VALUE",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Tunisia",
+      "away": "Austria",
+      "date": "2026-06-14",
+      "group": "G",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.429,
+      "probabilities": {
+        "home": 0.20537979024320596,
+        "draw": 0.3656386263227871,
+        "away": 0.4289815834340069
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "France",
+      "away": "Tunisia",
+      "date": "2026-06-18",
+      "group": "G",
+      "predicted_outcome": "HOME",
+      "confidence": 0.6473,
+      "probabilities": {
+        "home": 0.6473284726533315,
+        "draw": 0.23084943000735278,
+        "away": 0.12182209733931576
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Austria",
+      "away": "Australia",
+      "date": "2026-06-18",
+      "group": "G",
+      "predicted_outcome": "HOME",
+      "confidence": 0.4275,
+      "probabilities": {
+        "home": 0.4274569899819866,
+        "draw": 0.2444659723426692,
+        "away": 0.32807703767534424
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "France",
+      "away": "Austria",
+      "date": "2026-06-22",
+      "group": "G",
+      "predicted_outcome": "HOME",
+      "confidence": 0.5709,
+      "probabilities": {
+        "home": 0.5709222432788768,
+        "draw": 0.2301261266138368,
+        "away": 0.1989516301072863
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Australia",
+      "away": "Tunisia",
+      "date": "2026-06-22",
+      "group": "G",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.3888,
+      "probabilities": {
+        "home": 0.37022207196561974,
+        "draw": 0.24094082249808807,
+        "away": 0.38883710553629214
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Spain",
+      "away": "Japan",
+      "date": "2026-06-15",
+      "group": "H",
+      "predicted_outcome": "HOME",
+      "confidence": 0.438,
+      "probabilities": {
+        "home": 0.4379714542772385,
+        "draw": 0.1988830908589087,
+        "away": 0.36314545486385275
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Haiti",
+      "away": "Switzerland",
+      "date": "2026-06-15",
+      "group": "H",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.4566,
+      "probabilities": {
+        "home": 0.2796201487918677,
+        "draw": 0.263738293856653,
+        "away": 0.4566415573514793
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Spain",
+      "away": "Haiti",
+      "date": "2026-06-19",
+      "group": "H",
+      "predicted_outcome": "HOME",
+      "confidence": 0.774,
+      "probabilities": {
+        "home": 0.7739943047302981,
+        "draw": 0.11964247503412952,
+        "away": 0.10636322023557247
+      },
+      "confidence_level": "GOOD_VALUE",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Switzerland",
+      "away": "Japan",
+      "date": "2026-06-19",
+      "group": "H",
+      "predicted_outcome": "HOME",
+      "confidence": 0.5029,
+      "probabilities": {
+        "home": 0.5029282126841493,
+        "draw": 0.24299669120249054,
+        "away": 0.25407509611336015
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Spain",
+      "away": "Switzerland",
+      "date": "2026-06-23",
+      "group": "H",
+      "predicted_outcome": "HOME",
+      "confidence": 0.5659,
+      "probabilities": {
+        "home": 0.5658702257677846,
+        "draw": 0.23183271643106657,
+        "away": 0.20229705780114896
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Japan",
+      "away": "Haiti",
+      "date": "2026-06-23",
+      "group": "H",
+      "predicted_outcome": "DRAW",
+      "confidence": 0.443,
+      "probabilities": {
+        "home": 0.3926636418303201,
+        "draw": 0.4429976310575134,
+        "away": 0.16433872711216652
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Germany",
+      "away": "Ecuador",
+      "date": "2026-06-11",
+      "group": "I",
+      "predicted_outcome": "HOME",
+      "confidence": 0.5584,
+      "probabilities": {
+        "home": 0.5584222705255576,
+        "draw": 0.23760938134251836,
+        "away": 0.2039683481319241
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Jordan",
+      "away": "Portugal",
+      "date": "2026-06-11",
+      "group": "I",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.4832,
+      "probabilities": {
+        "home": 0.25086571235158245,
+        "draw": 0.26592747466211264,
+        "away": 0.4832068129863049
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Germany",
+      "away": "Jordan",
+      "date": "2026-06-15",
+      "group": "I",
+      "predicted_outcome": "HOME",
+      "confidence": 0.4424,
+      "probabilities": {
+        "home": 0.4424068348022588,
+        "draw": 0.2500971620759651,
+        "away": 0.30749600312177616
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Portugal",
+      "away": "Ecuador",
+      "date": "2026-06-15",
+      "group": "I",
+      "predicted_outcome": "HOME",
+      "confidence": 0.5538,
+      "probabilities": {
+        "home": 0.5537960956554738,
+        "draw": 0.22198564294974094,
+        "away": 0.22421826139478507
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Germany",
+      "away": "Portugal",
+      "date": "2026-06-19",
+      "group": "I",
+      "predicted_outcome": "HOME",
+      "confidence": 0.4791,
+      "probabilities": {
+        "home": 0.47906688904795863,
+        "draw": 0.22050619949792505,
+        "away": 0.3004269114541163
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Ecuador",
+      "away": "Jordan",
+      "date": "2026-06-19",
+      "group": "I",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.5008,
+      "probabilities": {
+        "home": 0.3364314249504793,
+        "draw": 0.16274245349516547,
+        "away": 0.5008261215543552
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Uruguay",
+      "away": "South Korea",
+      "date": "2026-06-12",
+      "group": "J",
+      "predicted_outcome": "HOME",
+      "confidence": 0.4924,
+      "probabilities": {
+        "home": 0.49241271681844956,
+        "draw": 0.2737593871793295,
+        "away": 0.2338278960022209
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Curacao",
+      "away": "Panama",
+      "date": "2026-06-12",
+      "group": "J",
+      "predicted_outcome": "HOME",
+      "confidence": 0.4334,
+      "probabilities": {
+        "home": 0.43343610332872085,
+        "draw": 0.23549269685235757,
+        "away": 0.3310711998189215
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Uruguay",
+      "away": "Curacao",
+      "date": "2026-06-16",
+      "group": "J",
+      "predicted_outcome": "HOME",
+      "confidence": 0.3838,
+      "probabilities": {
+        "home": 0.3838074206710968,
+        "draw": 0.2672929306983564,
+        "away": 0.34889964863054673
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Panama",
+      "away": "South Korea",
+      "date": "2026-06-16",
+      "group": "J",
+      "predicted_outcome": "DRAW",
+      "confidence": 0.479,
+      "probabilities": {
+        "home": 0.19624572720417807,
+        "draw": 0.47904872327071346,
+        "away": 0.32470554952510844
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Uruguay",
+      "away": "Panama",
+      "date": "2026-06-20",
+      "group": "J",
+      "predicted_outcome": "HOME",
+      "confidence": 0.7399,
+      "probabilities": {
+        "home": 0.7399264778883314,
+        "draw": 0.15374580232874555,
+        "away": 0.10632771978292307
+      },
+      "confidence_level": "SPECULATIVE",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "South Korea",
+      "away": "Curacao",
+      "date": "2026-06-20",
+      "group": "J",
+      "predicted_outcome": "HOME",
+      "confidence": 0.3703,
+      "probabilities": {
+        "home": 0.3702768584124493,
+        "draw": 0.2765410721432871,
+        "away": 0.35318206944426356
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Colombia",
+      "away": "Egypt",
+      "date": "2026-06-13",
+      "group": "K",
+      "predicted_outcome": "DRAW",
+      "confidence": 0.506,
+      "probabilities": {
+        "home": 0.361299618650107,
+        "draw": 0.506025375641222,
+        "away": 0.13267500570867105
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Congo DR",
+      "away": "Norway",
+      "date": "2026-06-13",
+      "group": "K",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.3677,
+      "probabilities": {
+        "home": 0.3501136859856074,
+        "draw": 0.28223065479554377,
+        "away": 0.3676556592188489
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Colombia",
+      "away": "Congo DR",
+      "date": "2026-06-17",
+      "group": "K",
+      "predicted_outcome": "HOME",
+      "confidence": 0.4352,
+      "probabilities": {
+        "home": 0.43521812942184956,
+        "draw": 0.2507646053982666,
+        "away": 0.3140172651798839
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Norway",
+      "away": "Egypt",
+      "date": "2026-06-17",
+      "group": "K",
+      "predicted_outcome": "HOME",
+      "confidence": 0.5234,
+      "probabilities": {
+        "home": 0.523376800607986,
+        "draw": 0.32917266381656163,
+        "away": 0.14745053557545246
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Colombia",
+      "away": "Norway",
+      "date": "2026-06-21",
+      "group": "K",
+      "predicted_outcome": "DRAW",
+      "confidence": 0.5024,
+      "probabilities": {
+        "home": 0.3376191771244637,
+        "draw": 0.5024437329017426,
+        "away": 0.15993708997379377
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Egypt",
+      "away": "Congo DR",
+      "date": "2026-06-21",
+      "group": "K",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.3771,
+      "probabilities": {
+        "home": 0.32049742433705836,
+        "draw": 0.3024003280854549,
+        "away": 0.3771022475774867
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "New Zealand",
+      "away": "Ghana",
+      "date": "2026-06-14",
+      "group": "L",
+      "predicted_outcome": "HOME",
+      "confidence": 0.5569,
+      "probabilities": {
+        "home": 0.556911155241259,
+        "draw": 0.22810646897970804,
+        "away": 0.2149823757790329
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Iraq",
+      "away": "Uzbekistan",
+      "date": "2026-06-14",
+      "group": "L",
+      "predicted_outcome": "HOME",
+      "confidence": 0.4269,
+      "probabilities": {
+        "home": 0.42691329425315316,
+        "draw": 0.3712703924953467,
+        "away": 0.20181631325150012
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "New Zealand",
+      "away": "Iraq",
+      "date": "2026-06-18",
+      "group": "L",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.455,
+      "probabilities": {
+        "home": 0.20203315665320243,
+        "draw": 0.34299227734268306,
+        "away": 0.4549745660041145
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Uzbekistan",
+      "away": "Ghana",
+      "date": "2026-06-18",
+      "group": "L",
+      "predicted_outcome": "HOME",
+      "confidence": 0.369,
+      "probabilities": {
+        "home": 0.36903139250331773,
+        "draw": 0.282357061323508,
+        "away": 0.34861154617317425
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "New Zealand",
+      "away": "Uzbekistan",
+      "date": "2026-06-22",
+      "group": "L",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.6031,
+      "probabilities": {
+        "home": 0.17403186868411222,
+        "draw": 0.22286518958667723,
+        "away": 0.6031029417292105
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    },
+    {
+      "home": "Ghana",
+      "away": "Iraq",
+      "date": "2026-06-22",
+      "group": "L",
+      "predicted_outcome": "AWAY",
+      "confidence": 0.4445,
+      "probabilities": {
+        "home": 0.2477055967930754,
+        "draw": 0.30783701665498886,
+        "away": 0.4444573865519359
+      },
+      "confidence_level": "NO_BET",
+      "bet_decision": {
+        "should_bet": false,
+        "stake": 0.0,
+        "odds_used": null
+      }
+    }
+  ]
+}

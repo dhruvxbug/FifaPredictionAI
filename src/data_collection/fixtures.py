@@ -172,4 +172,7 @@ TEAM_NAME_ALIASES = {
     "Turkey": "Türkiye",
     "Bosnia and Herzegovina": "Bosnia-Herzegovina",
     "Cape Verde": "Cabo Verde",
+    "Czechia": "Czech Republic",
+    "Türkiye": "Turkey",
+    "Ivory Coast": "Côte d'Ivoire",
 }
