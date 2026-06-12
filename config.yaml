@@ -1,0 +1,67 @@
+project:
+  name: FifaPredictionAI
+  version: 1.0.0
+  description: AI Agent for FIFA World Cup 2026 Match Prediction & Betting Simulation
+
+data:
+  historical:
+    source_url: "https://github.com/martj42/international_results/raw/master/results.csv"
+    min_year: 2000
+  odds:
+    source_url: "https://www.football-data.co.uk/mmz4281/"
+  fifa_rankings:
+    source_url: "https://www.fifa.com/fifa-world-ranking/"
+  cache_ttl_hours: 24
+
+exa:
+  search_type: "auto"
+  num_results: 5
+  max_retries: 3
+  rate_limit_per_minute: 10
+  contents_highlights: true
+
+features:
+  form_match_count: 10
+  form_decay_factor: 0.9
+  h2h_match_count: 5
+  h2h_decay_factor: 0.85
+  injury_weight_default: 0.7
+  rest_days_max: 7
+  travel_distance_bins: [0, 500, 2000, 5000, 10000]
+
+models:
+  elo:
+    k_factor: 32
+    home_advantage: 100
+    goal_difference_weight: true
+    regression_power: 0.5
+    initial_rating: 1500
+  poisson:
+    time_decay_half_life_days: 365
+    low_score_correction: true
+    max_iter: 500
+  xgboost:
+    n_estimators: 500
+    max_depth: 6
+    learning_rate: 0.05
+    subsample: 0.8
+    colsample_bytree: 0.8
+    early_stopping_rounds: 20
+    objective: "multi:softprob"
+    num_class: 3
+  ensemble:
+    use_calibration: true
+    calibration_method: "isotonic"
+
+betting:
+  bankroll_initial: 1000.0
+  min_confidence: 0.60
+  kelly_fraction: 0.25
+  min_stake: 10.0
+  max_stake_fraction: 0.10
+  commission: 0.0
+
+evaluation:
+  confidence_buckets: [0.0, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
+  log_predictions: true
+  save_feature_snapshots: true
